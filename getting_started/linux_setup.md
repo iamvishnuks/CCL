@@ -1,4 +1,4 @@
-# Guide to Using Linux for Teaching
+# Guide to Install Linux 
 
 ## Option 1: Linux on a Virtual Machine (VM)
 
